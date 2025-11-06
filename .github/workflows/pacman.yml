@@ -1,0 +1,43 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  # Run automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Generate Pac-Man SVG
+        uses: abozanona/pacman-contribution-graph@v2
+        with:
+          # Your GitHub username
+          username: noah-n-pham
+          
+          # Output directory for the generated SVG files
+          output-path: ./output
+          
+          # Generate both light and dark theme versions
+          game-theme: github
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Pac-Man contribution graph" && git push)
+

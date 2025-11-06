@@ -47,16 +47,12 @@
 
 ---
 
-## 📊 My Contribution Blocks
+## 🟡 PAC-MAN Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Always+open+to+collaborate!+%F0%9F%92%AC)](https://git.io/typing-svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-light.svg">
+    <img alt="PAC-MAN contribution graph" src="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-light.svg">
+  </picture>
 </div>
