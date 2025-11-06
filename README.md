@@ -1,16 +1,16 @@
-<p align="center">
+<p align="left">
   My name is Noah Pham and I am a Computer Science major at the University of Florida 🐊
 </p>
 
-<p align="center">
+<p align="left">
   I'm endlessly curious and always looking to learn and understand more about the world around me 🌎
 </p>
 
-<p align="center">
+<p align="left">
   When I'm not coding, I'm usually at the piano taking song requests and making people smile 🎹
 </p>
 
-<p align="center">
+<p align="left">
   Feel free to reach out to chat about projects, opportunities, or just connect! 🚀
 </p>
 
