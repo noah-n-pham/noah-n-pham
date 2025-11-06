@@ -1,38 +1,50 @@
-<div id="header" align="center">
-<h1>
-  Hi, I'm Noah Pham 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=2000&pause=1500&color=32C9FF&vCenter=true&width=435&height=80&lines=Hey+there!+%F0%9F%91%8B;I'm+Noah+Pham+%F0%9F%98%84">
+  </a>
 </h1>
-</div>
 
-- 🐊 Computer Science Student @ University of Florida
-- 💻 Passionate about making a meaningful impact on the world
-- 📧 noah.n.pham@gmail.com
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-n-pham)
+<p align="center">
+  My name is Noah Pham and I am a Computer Science major at the University of Florida 🐊
+</p>
 
-## ⚒️ Languages & Tools
+<p align="center">
+  I'm endlessly curious and always looking to learn and understand more about the world around me 🌎
+</p>
+
+<p align="center">
+  When I'm not coding, I'm usually at the piano taking song requests and making people smile 🎹
+</p>
+
+<p align="center">
+  Feel free to reach out to chat about projects, opportunities, or just connect! 🚀
+</p>
+
+<p align="center">
+  📧 <a href="mailto:noah.n.pham@gmail.com">noah.n.pham@gmail.com</a> •
+  <a href="https://linkedin.com/in/noah-n-pham">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noah-n-pham&style=flat-square&color=32C9FF&label=Profile+Views" alt="Profile Views">
+</p>
+
+## ⚒️ My Toolkit
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,swift,mysql,html,css" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,pytorch,numpy,opencv,graphql,socketio,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,pytorch,opencv,graphql,jquery,tailwind" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postgres,supabase,firebase,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postgres,supabase,firebase,vercel,arduino,wordpress" />
 </p>
 
----
-
-## 🟡 PAC-MAN Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph.svg">
-</picture>
