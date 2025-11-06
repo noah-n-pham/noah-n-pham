@@ -1,56 +1,140 @@
-<div id="header" align="center">
-<h1>
-  Hi, I'm Noah Pham 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=Noah%20Pham&fontSize=50&fontAlignY=35&desc=Building%20digital%20experiences,%20brick%20by%20brick%20🧱&descAlignY=55&descSize=20"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 </div>
+
+## 🧱 About Me
+
+Think of me as a builder—I take ideas and stack them into reality, one line of code at a time.
 
 - 🐊 Computer Science Student @ University of Florida
-- 💻 Passionate about making a meaningful impact on the world
+- 💻 Passionate about creating meaningful impact through technology
+- 🔨 Building full-stack applications and exploring AI/ML
+- 🎯 Always learning, always building
 - 📧 noah.n.pham@gmail.com
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-n-pham)
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-n-pham)
 
-## ⚒️ Languages & Tools
+---
 
-### Languages
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-</div>
+## 🚧 What I'm Building Right Now
 
-### Frameworks & Libraries
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" title="Socket.IO" alt="Socket.IO" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-</div>
+Currently piecing together:
+- **Full-stack web applications** using modern React and Next.js
+- **Machine learning projects** with PyTorch and OpenCV
+- **Mobile experiences** exploring Swift and iOS development
+- **My skills** through continuous learning and hands-on projects
 
-### Tools & Platforms
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
+---
+
+## 🧰 My Toolkit
+
+<table>
+<tr>
+  <td align="center" width="33%">
+  
+  ### 🔴 Core Stack
+  *Daily drivers*
+  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  
+  </td>
+  <td align="center" width="33%">
+  
+  ### 🔵 Building With
+  *Active projects*
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+  
+  </td>
+  <td align="center" width="33%">
+  
+  ### 🟡 Exploring
+  *Learning & experimenting*
+  
+  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  
+  </td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Featured Builds
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎯 **[Your Project Name]** | Brief description of your most impressive project | `React` `TypeScript` `Firebase` |
+| 🚀 **[Another Project]** | What problem it solves or key feature | `Python` `PyTorch` `OpenCV` |
+| 💡 **[Third Project]** | Impact or unique aspect of this build | `Next.js` `Supabase` `Tailwind` |
+
+*Replace these with your actual projects and add GitHub repo links!*
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Building Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noah-n-pham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Noah's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-n-pham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=noah-n-pham&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noah-n-pham&bg_color=1a1b27&color=fdba74&line=f97316&point=facc15&area=true&hide_border=true" alt="Contribution Graph"/>
+
+*Building consistency, one commit at a time* 🧱
+
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=noah-n-pham&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Stack+by+stack%2C+brick+by+brick+%F0%9F%A7%B1;Always+open+to+new+opportunities!)](https://git.io/typing-svg)
+
+### 🧱 Let's Build Something Together
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noah.n.pham@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-n-pham)
+
+<img src="https://komarev.com/ghpvc/?username=noah-n-pham&color=orange&style=for-the-badge&label=Builders+Visited"/>
+
+<br>
+
+*"Every expert was once a beginner who refused to give up."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
+
 </div>
