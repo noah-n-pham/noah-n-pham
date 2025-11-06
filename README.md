@@ -14,14 +14,14 @@
   Feel free to reach out to chat about projects, opportunities, or just connect! 🚀
 </p>
 
-<p align="center">
+<p align="left">
   📧 <a href="mailto:noah.n.pham@gmail.com">noah.n.pham@gmail.com</a> •
   <a href="https://linkedin.com/in/noah-n-pham">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=noah-n-pham&style=flat-square&color=32C9FF&label=Profile+Views" alt="Profile Views">
 </p>
 
