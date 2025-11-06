@@ -36,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" title="Socket.IO" alt="Socket.IO" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </div>
-<p><em>Also: WebRTC</em></p>
 
 ### Tools & Platforms
 <div>
@@ -48,16 +47,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
 </div>
-<p><em>Also: CI/CD, REST APIs, OAuth, OpenAI API</em></p>
 
 ---
 
 ## 🟡 PAC-MAN Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-light.svg">
-    <img alt="PAC-MAN contribution graph" src="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/main/output/pacman-contribution-graph-light.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noah-n-pham/noah-n-pham/output/pacman-contribution-graph.svg">
+</picture>
