@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=2000&pause=1500&vCenter=true&width=435&height=80&repeat=true&lines=Good+Morning+%E2%98%80%EF%B8%8F;Good+Afternoon+%F0%9F%8C%A4%EF%B8%8F;Good+Evening+%F0%9F%8C%99&color=FFD700,FF8C00,5865F2">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=2000&pause=1500&vCenter=true&width=435&height=80&repeat=true&lines=Good+Morning+%E2%98%80%EF%B8%8F;Good+Afternoon+%F0%9F%8C%A4%EF%B8%8F;Good+Evening+%F0%9F%8C%99&color=32C9FF">
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  Let’s connect and build something great together 🚀
+  Let’s connect and build something great together! 🚀
 </p>
 
 ## ⚒️ My Toolkit
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postgres,supabase,firebase,vercel,arduino,wordpress" />
 </p>
 
-<br>
+<br><br/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noah-n-pham&style=flat-square&color=32C9FF&label=Profile+Views" alt="Profile Views">
