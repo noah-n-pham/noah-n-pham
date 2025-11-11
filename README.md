@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  When I'm not coding, I'm usually at the piano taking song requests and making people smile 🎹
+  When I'm not coding, I'm usually at the piano taking song requests 🎹
 </p>
 
 <p align="left">
