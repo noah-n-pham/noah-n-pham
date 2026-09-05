@@ -20,25 +20,6 @@
   Let’s connect and build something great together! 🚀
 </p>
 
-## ⚒️ My Toolkit
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,swift,mysql,html,css" />
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,pytorch,opencv,graphql,jquery,tailwind" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postgres,supabase,firebase,vercel,arduino,wordpress" />
-</p>
-
-<br><br/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noah-n-pham&style=flat-square&color=32C9FF&label=Profile+Views" alt="Profile Views">
 </p>
